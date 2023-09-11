@@ -62,11 +62,5 @@ Start the server
 - Quickly search through all files and folders with
     a single search bar.
 
-  
-## Developers
 
-- [Suman Kumar Jaiswal](https://github.com/Suman-Jaiswal)
-- [Hasnain Raza](https://github.com/hasnain-cyber)
-- [Diwakar Soni](https://github.com/Diwakar10091511)
-- [Karandevsinh Khuman](https://github.com/Karandevsinh)
 
